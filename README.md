@@ -1,5 +1,8 @@
 ### Hi there, I'm Savindu Thathsara [BLSThathsara][website] 👋 
 
+[![Website](https://img.shields.io/website?label=blsthathsara.com&style=for-the-badge&url=https://blsthathsara.com)](blsthathsara.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BlsThathsara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BlsThathsara)
+
 ## I'm a Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
